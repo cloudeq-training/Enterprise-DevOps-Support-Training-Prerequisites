@@ -41,9 +41,7 @@ ECHO Chocolatey is ready to begin installing packages!
 @rem ----[ Whatever you want to install, place it below this point, each item on its own line (to make it easier to find later on. ] ----
 choco install virtualbox -y
 choco install vagrant -y
-choco install vscode -y
 choco install git -y 
-choco install sublimetext3.app -y
 
 @rem ---[You can add as many programs here as you desire!]----
 
